@@ -2,3 +2,8 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+#container{
+    border: 1px solid black;
+    width: 70%;
+    margin: 0 auto;
+}
